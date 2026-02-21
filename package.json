@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-meta-spark-engine-build-wt9",
+  "version": "1.0.0",
+  "description": "Configuration management system",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "meta-spark-engine-build-wt9"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-meta-spark-engine-build-wt9.git"
+  }
+}
